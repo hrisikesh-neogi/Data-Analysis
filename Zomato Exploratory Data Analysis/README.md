@@ -1,5 +1,3 @@
-# Google colab
-https://colab.research.google.com/drive/1tg78TQSKTk9iO2IyJ0QBLGeaX2Eyqq2X?usp=sharing
 
 # Dataset Link
 https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
@@ -75,4 +73,4 @@ and much more...
 
 # Author
 
-* **Parnasree Das** - [Linkedin](https://www.linkedin.com/in/hrisikesh-neogi-054581166/), [GitHub](https://github.com/hrisikesh-neogi)  
+* **Hrisikesh Neogi** - [Linkedin](https://www.linkedin.com/in/hrisikesh-neogi-054581166/), [GitHub](https://github.com/hrisikesh-neogi)  
