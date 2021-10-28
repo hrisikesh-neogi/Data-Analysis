@@ -5,8 +5,7 @@ https://colab.research.google.com/drive/1tg78TQSKTk9iO2IyJ0QBLGeaX2Eyqq2X?usp=sh
 https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
 # Project video
-
-[![image](https://user-images.githubusercontent.com/56734293/116794493-f423fb00-aaea-11eb-99bd-df7f4a77661e.png)](https://youtu.be/BOQu5E6rZnw "Click to Watch the video")
+[![image](https://user-images.githubusercontent.com/78023847/139283525-c65ef850-061a-4ac0-8270-7269ef429f90.png)](https://youtu.be/BOQu5E6rZnw "Click to Watch the video")
 
 # System Requirements
 * <b>Os :</b> Windows 10
