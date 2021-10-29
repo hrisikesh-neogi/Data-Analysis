@@ -2,10 +2,7 @@
 
 ![sales_insights](https://user-images.githubusercontent.com/78023847/139390280-5a132d8e-7c16-41d2-84d1-71b7bb6ad552.jpg)
 
-### Instructions to setup mysql on your local computer
 
-1. Follow step in this video to install mysql on your local computer
-https://www.youtube.com/watch?v=WuBcTJnIuzo
 
 1. SQL database dump is 
 in db_dump.sql file above. Download `db_dump_version_2.sql` file to your local computer and import it as per instructions given in the tutorial video
